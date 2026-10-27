@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Intelligent Agent Discovery",
+  "description": "A futuristic 3D platform to discover, compare, and deploy specialized AI agents with seamless, intuitive navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
